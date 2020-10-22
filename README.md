@@ -6,6 +6,6 @@ The blockchain domain is rapidly changing.  Even those in a highly technical rol
 
 1. [Blockchain Case Study](Blockchain_Case_Study/Blockchain_Case_Study.md)
 
-2. [POA Development Chain](POA_Development_Chain/POA_Development_Chain.md)
+2. [POA Development Chain](POA_Development_Chain.md)
 
 3. [Blockchain-Tools folder](Blockchain-Tools)
