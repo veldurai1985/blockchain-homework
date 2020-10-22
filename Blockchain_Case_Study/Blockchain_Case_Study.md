@@ -16,31 +16,32 @@ SecureKey and its trusted partners recently launched Verified.Me®, a new identi
 
 Organizations such as the Digital ID Authentication Council of Canada, the Command Control and Interoperability Center for Advanced Data Analytics (CCICADA), and many of Canada’s leading financial institutions (BMO, CIBC, Desjardins, RBC, Scotiabank and TD) have been engaged as both investors and partners in the development of this digital identity ecosystem. This unique collaboration will ensure the effective delivery of the new innovation, and improved privacy, security and digital fraud protection for both consumers and service providers across Canada.
 
+## Why Blockchain technology is used
 
-## Things to Keep in Mind for a Case Study
+SecureKey is advocates of a private network approach to digital identity with security, privacy, trust and resilience; As a permissioned blockchain, the Hyperledger Fabric is an essential component in delivering services that allow for compliance with data protection and privacy regulations. Permissioned blockchain was the natural choice for the Verified.Me service. Although the Verified.Me service will be cross-industry and collaborative, it’s still important to control who participates in the network and validation process. Blockchain – in this case Hyperledger Fabric- sets the foundation on which modern digital identities can grow with security, privacy and trust.
 
-* How TokenFunder works and how it's making a difference in the private market/venture capital realm.
+## What is Hyperleger Fabric 
 
-* The financial impact of a more accessible private market and secondary trading marketplace.
+Hyperledger Fabric is a permissioned blockchain infrastructure, originally contributed by IBM and Digital Asset, providing a modular architecture with a delineation of roles between the nodes in the infrastructure, execution of Smart Contracts (called "chaincode" in Fabric) and configurable consensus and membership services. A Fabric Network comprises "Peer nodes", which execute chaincode, access ledger data, endorse transactions and interface with applications. "Orderer nodes" which ensure the consistency of the blockchain and deliver the endorsed transactions to the peers of the network, and Membership Service Providers (MSPs), generally implemented as a Certificate Authority, managing X.509 certificates which are used to authenticate member identity and roles.
 
-* The regulatory concerns as well as compliance surrounding TokenFunder's vision and future operations.
+## What is the risk with Secure Key
 
-* The impact if trusted partners network was hacked and used to access to sensitive government websites. 
+* SecureKey and Verified.me service further consolidates and centralizes authority of the power to big banks and telcom companies 
+
+* If trusted partners network was hacked then significant and senstive information can be accessed (Such as Canada Revenue Agency, CIC etc.,) 
 
 ## Resources
 
-* [About TokenFunder](https://about.tokenfunder.com/)
+* [Secure Key](https://securekey.com/)
 
-* [How TokenFunder Works](https://www.tokenfunder.com/how-it-works)
+* [About Secure Key](https://securekey.com/about-securekey/)
 
-* [TokenFunder Wins Approval to First OSC Regulated ICO Launch](https://bitcoinmagazine.com/articles/tokenfunder-wins-approval-first-osc-regulated-ico-launch)
+* [Resources Secure Key](https://securekey.com/resources/)
 
-* [TokenGX Approved for Secondary Trading of Digital Securities](https://about.tokenfunder.com/tokengx-approved-for-secondary-trading-of-digital-securities/)
+* [Secure Key Corporate Overview](https://securekey.com/wp-content/uploads/2020/02/8.5x11_SecureKey_CorporateOverview_Jan2020_EN.pdf)
 
-* [TokenFunder launches $50 million Canadian Regulated Real Estate Tokenization Offering](https://www.cryptoninjas.net/2020/02/26/tokenfunder-launches-50-million-canadian-regulated-real-estate-tokenization-offering/)
+* [Verified Me](https://securekey.com/wp-content/uploads/2020/02/VerifiedMe_TwoPager_EN_Generic_Dec2019.pdf)
 
-* [TokenFunder's Founder Q & A](https://www.foundersbeta.com/interview/founder-spotlight-tokenfunder/)
-
-* [TokenFunder Crunchbase Metrics](https://www.crunchbase.com/organization/tokenfunder)
+* [Hyperledger Fabric](https://www.hyperledger.org/use/fabric)
 
 ---
