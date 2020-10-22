@@ -1,0 +1,44 @@
+=============== Oct 21, 2020 (EDT) ===============
+19:53:08.000669 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:53:08.012034 db@open opening
+19:53:08.012982 version@stat F·[] S·0B[] Sc·[]
+19:53:08.015020 db@janitor F·2 G·0
+19:53:08.015020 db@open done T·2.9861ms
+19:53:08.015974 db@close closing
+19:53:08.016972 db@close done T·998.3µs
+=============== Oct 21, 2020 (EDT) ===============
+19:55:26.465496 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:55:26.466493 version@stat F·[] S·0B[] Sc·[]
+19:55:26.466493 db@open opening
+19:55:26.466493 journal@recovery F·1
+19:55:26.481464 journal@recovery recovering @1
+19:55:26.483458 memdb@flush created L0@2 N·15 S·1KiB "\x18-K..`\xe0\xfd,v4":"\xe4\x03\xda..\xc8٭,v5"
+19:55:26.490440 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+19:55:26.496424 db@janitor F·3 G·0
+19:55:26.496424 db@open done T·29.9308ms
+20:15:07.096577 db@close closing
+20:15:07.105538 db@close done T·8.9606ms
+=============== Oct 21, 2020 (EDT) ===============
+20:16:24.420613 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+20:16:24.421621 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+20:16:24.421621 db@open opening
+20:16:24.421621 journal@recovery F·1
+20:16:24.427568 journal@recovery recovering @3
+20:16:24.436544 memdb@flush created L0@5 N·33 S·1KiB "Dat..ion,v17":"r\x00\x00..N\xde5,v45"
+20:16:24.443526 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+20:16:24.449510 db@janitor F·4 G·0
+20:16:24.449510 db@open done T·27.8884ms
+22:03:28.427918 db@close closing
+22:03:28.447533 db@close done T·19.6145ms
+=============== Oct 21, 2020 (EDT) ===============
+22:04:18.568658 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:04:18.568658 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+22:04:18.568658 db@open opening
+22:04:18.568658 journal@recovery F·1
+22:04:18.577709 journal@recovery recovering @6
+22:04:18.589482 memdb@flush created L0@8 N·3149 S·161KiB "\x03R-..뀳,v3198":"sec..\xa1ԁ,v3196"
+22:04:18.597077 version@stat F·[3] S·164KiB[164KiB] Sc·[0.75]
+22:04:18.606007 db@janitor F·5 G·0
+22:04:18.606007 db@open done T·37.3487ms
+22:36:46.866998 db@close closing
+22:36:46.884329 db@close done T·17.3302ms
